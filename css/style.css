@@ -206,9 +206,6 @@ section {
     .hero-title {
         margin-top: 0rem; 
     }
-    .bar {
-        height: 2px;
-}
 
 .hero-subtitle {
     color: var(--text-dark);
